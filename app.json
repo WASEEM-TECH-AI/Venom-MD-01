@@ -82,6 +82,18 @@
       "value": "true"
     }, 
 
+        "OWNER_NAME": {
+      "description": "Type Bot Owner Name.",
+      "required": false,
+      "value": "Waseem TᴇᴄʜX"
+}, 
+
+    "OWNER_NUMBER": {
+      "description": "put the owner number for bot.",
+      "required": false,
+      "value": "923205855455"
+
+    }, 
     "AUTO_STATUS_REPLY": {
       "description": "Make it true for auto reply msg on status seen.",
       "required": true,
@@ -123,7 +135,7 @@
     "WELCOME": {
       "description": "make it true if want goodbye and welcome message in groups.",
       "required": true,
-      "value": "false"
+      "value": "true"
     },
      
     "ANTI_CALL": {
