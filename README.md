@@ -76,18 +76,11 @@ New Advance 2025 Bot
   
 --- 
 > **PAIRING LINK (01)**
-  <a href='https://venommd-pair.onrender.com/' target="_blank">
-    <img src='https://img.shields.io/badge/PAIR_CODE_1-00FFFF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
-  </a></br>
-  
-  <div style="height: 10px;"></div>
-  
-> **PAIRiNG LINK (02)**
-  <a href='https://waseemmd-pair.onrender.com/pair' target="_blank">
-    <img src='https://img.shields.io/badge/PAIR_CODE_2-FF00FF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
-  </a>
-  
+  GET THE PAIR CODE OR SESSION ID BY CLICKING BELOW.
+> 
+  ***Get [`SESSION ID`](https://suhail-md-vtsf.onrender.com/)  by Pair Code Or scanning QR code. `Whatapp>Three dots>Linked Devices`***
   ---
+ 
   <p style="color: #aaaaaa; font-size: 12px; margin-top: 10px;">
     <img src="https://github.com/WASEEM-TECH-AI/VENOM-MD/blob/main/assets/warning.gif?raw=true" width="15"/> 
     Connection issues may require VPN activation
