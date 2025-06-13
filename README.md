@@ -41,7 +41,7 @@ New Advance 2025 Bot
   <img src="![20250613_150728](https://github.com/user-attachments/assets/3a73fd23-8d34-40d8-89b1-d29fac67aa47)
 ">
 <div align="center">
-  <img src=""(https://github.com/user-attachments/assets/00c75385-2cd8-4878-a4a5-07c33a8f7161)
+  <img src"(https://github.com/user-attachments/assets/00c75385-2cd8-4878-a4a5-07c33a8f7161)
 " width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
 </div>
 
