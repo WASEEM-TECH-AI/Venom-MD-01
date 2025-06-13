@@ -1,0 +1,63 @@
+html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>WASEEM-TECH PAIR SITE</title>
+  <style>
+    body {
+      background-color: #000000;
+      color: #00ffff;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 50px;
+    }
+    h1 {
+      color: #00ffff;
+      text-shadow: 0 0 5px #00ffff, 0 0 10px #00ffff;
+      margin-bottom: 40px;
+    }
+    input {
+      width: 250px;
+      padding: 10px;
+      font-size: 16px;
+      border-radius: 5px;
+      border: none;
+      outline: none;
+    }
+    button {
+      margin-top: 15px;
+      padding: 10px 20px;
+      font-size: 16px;
+      background-color: #00ffff;
+      border: none;
+      border-radius: 5px;
+      color: black;
+      cursor: pointer;
+    }
+    #output {
+      margin-top: 20px;
+      font-size: 18px;
+    }
+  </style>
+</head>
+<body>
+  <h1>WASEEM-TECH PAIR SITE</h1>
+  <input type="text" placeholder="Enter your WhatsApp number" />
+  <br>
+  <button onclick="generate()">Generate Pair Link</button>
+  <div id="output"></div>
+
+  <script>
+    function generate() {
+[6/13, 20:30] ChatGPT: const num = document.querySelector('input').value.trim();
+      if (!num.match(/^\d+/)) 
+        document.getElementById('output').innerHTML = "❌ Invalid number!";
+        return;
+      
+      const link = `https://wa.me/{num}`;
+      document.getElementById('output').innerHTML = `✅ Pair Link: <a href="link" target="_blank">{link}</a>`;
+    }
+  </script>
+</body>
+</html>
