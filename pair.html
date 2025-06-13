@@ -1,3 +1,4 @@
+html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,30 +12,27 @@
       text-align: center;
       padding: 50px;
     }
-    html
-<h1 style="
-  font-size: 48px; 
-  font-weight: bold; 
-  background: linear-gradient(90deg, #00ffff, #ff00ff, #00ffff);
-  background-size: 200% auto;
-  color: transparent;
-  background-clip: text;
-  -webkit-background-clip: text;
-  animation: shine 3s linear infinite;
-">
-  WASEEM-TECH-AI
-</h1>
 
-<style>
-  @keyframes shine {
-    0% {
-      background-position: 200% center;
+    h1 {
+      font-size: 48px;
+      font-weight: bold;
+      background: linear-gradient(90deg, #00ffff, #ff00ff, #00ffff);
+      background-size: 200% auto;
+      color: transparent;
+      background-clip: text;
+      -webkit-background-clip: text;
+      animation: shine 3s linear infinite;
     }
-    100% {
-      background-position: -200% center;
+
+    @keyframes shine {
+      0% {
+        background-position: 200% center;
+      }
+      100% {
+        background-position: -200% center;
+      }
     }
-  }
-</style>
+
     input {
       width: 250px;
       padding: 10px;
@@ -43,6 +41,7 @@
       border: none;
       outline: none;
     }
+
     button {
       margin-top: 15px;
       padding: 10px 20px;
@@ -53,22 +52,23 @@
       color: black;
       cursor: pointer;
     }
+
     #output {
       margin-top: 20px;
       font-size: 18px;
     }
   </style>
-</head>
+[6/13, 21:17] ChatGPT: </head>
 <body>
-  <h1>WASEEM-TECH PAIR SITE</h1>
-  <input type="text" placeholder="Enter your WhatsApp number" />
+  <h1>WASEEM-TECH-AI</h1>
+  <input type="text" id="numberInput" placeholder="Enter your WhatsApp number" />
   <br>
   <button onclick="generate()">Generate Pair Link</button>
   <div id="output"></div>
 
   <script>
     function generate() {
-[6/13, 20:30] ChatGPT: const num = document.querySelector('input').value.trim();
+      const num = document.getElementById('numberInput').value.trim();
       if (!num.match(/^\d+/)) 
         document.getElementById('output').innerHTML = "❌ Invalid number!";
         return;
