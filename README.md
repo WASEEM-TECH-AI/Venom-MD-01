@@ -37,8 +37,10 @@ New Advance 2025 Bot
 ---
 
 <div align="center">
-  <img src="https://cdn.ironman.my.id/i/9zd4if.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
+  <img src="![20250613_150728](https://github.com/user-attachments/assets/00c75385-2cd8-4878-a4a5-07c33a8f7161)
+" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
 </div>
+
 
 <div align="center">
   <img src="https://i.imgur.com/LyHic3i.gif" width="400" style="border-radius: 20px; box-shadow: 0 0 25px #0088ff;"/>
