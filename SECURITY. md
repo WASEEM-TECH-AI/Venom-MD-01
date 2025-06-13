@@ -1,0 +1,57 @@
+Skip to content
+Navigation Menu
+WASEEM-TECH
+VENOM-MD
+
+Code
+Issues
+0
+Pull requests
+21
+Actions
+Projects
+0
+Security
+
+
+ main
+VENOM-MD
+/SECURITY.md
+
+Go to file
+t
+
+WASEEM-TECH
+WASEEM-TECH
+Create SECURITY.md
+fedfd7d
+ · 
+4 months ago
+21 lines (15 loc) · 619 Bytes
+
+Preview
+
+Code
+
+Blame
+
+Raw
+
+
+
+
+Security Policy
+Supported Versions
+Use this section to tell people about which versions of your project are currently being supported with security updates.
+
+Version	Supported
+5.1.x	✅
+5.0.x	❌
+4.0.x	✅
+< 4.0	❌
+Reporting a Vulnerability
+Use this section to tell people how to report a vulnerability.
+
+Tell them where to go, how often they can expect to get an update on a reported vulnerability, what to expect if the vulnerability is accepted or declined, etc.
+
+VENOM-MD/SECURITY.md at main · WASEEM-TECH/VENOM-MD
