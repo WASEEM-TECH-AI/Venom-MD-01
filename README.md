@@ -76,9 +76,8 @@ New Advance 2025 Bot
   
 --- 
 > **PAIRING LINK (01)**
-  GET THE PAIR CODE OR SESSION ID BY CLICKING BELOW.
-> 
-  ***Get [`SESSION ID`](https://suhail-md-vtsf.onrender.com/)  by Pair Code Or scanning QR code. `Whatapp>Three dots>Linked Devices`***
+  markdown
+> [i[Pair Code](https://img.shields.io/badge/Pair_Code-Click_Here-brightgreen)](https://waseem-tech-ai.github.io/Venom-MD-01/pair.html)
   ---
  
   <p style="color: #aaaaaa; font-size: 12px; margin-top: 10px;">
