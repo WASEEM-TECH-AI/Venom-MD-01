@@ -76,7 +76,9 @@ New Advance 2025 Bot
   
 --- 
 > **PAIRING LINK (01)**
-  https://waseem-tech-ai.github.io/Venom-MD-01/pair.html
+  <a href='https://waseem-tech-ai.github.io/Venom-MD-01/pair.html'target=_blank">
+   <img src ='https://img.shields.io/badge/PAIR_CODE_1-00FFFF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
+</a></br>
   <p style="color: #aaaaaa; font-size: 12px; margin-top: 10px;">
     <img src="https://github.com/WASEEM-TECH-AI/VENOM-MD/blob/main/assets/warning.gif?raw=true" width="15"/> 
     Connection issues may require VPN activation
