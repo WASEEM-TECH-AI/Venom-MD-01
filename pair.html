@@ -1,3 +1,4 @@
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -12,8 +13,8 @@
       padding: 50px;
     }
     h1 {
-      font-size: 48px; 
-      font-weight: bold; 
+      font-size: 48px;
+      font-weight: bold;
       background: linear-gradient(90deg, #00ffff, #ff00ff, #00ffff);
       background-size: 200% auto;
       color: transparent;
@@ -61,17 +62,16 @@
   <script>
     function generate() {
       const num = document.getElementById('number').value.trim();
-      // Validate number (only digits)
-      if (!num.match(/^8̣,̣1̣5̣/)) 
+
+      if (!/^8̣,̣1̣5̣/.test(num)) 
         document.getElementById('output').innerHTML = "❌ Invalid number! Enter 8 to 15 digits.";
         return;
       
-      // Generate random 8 digit alphanumeric code
-      const pairCode = Math.random().toString(36).substring(2,10).toUpperCase();
-      // Show pair code with message
-      document.getElementById('output').innerHTML = `✅ Your Pair Code: <b>{pairCode}</b><br>
-      Save this code and use it to link your device.`;
+
+      const pairCode = Math.random().toString(36).substring(2, 10).toUpperCase();
+      document.getElementById('output').innerHTML = `✅ Your Pair Code: <b>{pairCode}</b><br>Save this code and use it to link your device.`;
     }
   </script>
 </body>
 </html>
+```
